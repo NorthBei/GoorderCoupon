@@ -200,7 +200,7 @@ html,body{
   min-width: 300px;
 }
 
-//coupon card css
+/*coupon card css*/
 .coupon-card{
   margin-bottom: 8px;
 }
