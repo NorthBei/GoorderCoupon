@@ -4,7 +4,6 @@
       <el-tab-pane label="我的集點卡" name="first" class="tab-pane">
         <div>
           <div id="profile">
-            <img src="https://scontent.ftpe12-1.fna.fbcdn.net/v/t1.0-9/944965_959081164140726_4038876763635554815_n.png?_nc_cat=107&_nc_ht=scontent.ftpe12-1.fna&oh=1484ae304e51ad960c71829036b46dd9&oe=5C6BA493">
             <div>
               <div>斯比亞咖琲披薩</div>
               <small>餐廳/咖啡廳</small>
