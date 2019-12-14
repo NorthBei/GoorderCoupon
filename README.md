@@ -6,7 +6,7 @@ This project is "Goorder coupon and loyalty card mobile version prototype"
 
 Here is [demo](https://northbei.github.io/GoorderCoupon/)
 
-> Notice: This project is only a prototype, just use for demo, now is deprecated (start from 2019/12/15)
+> Notice: This project is only a prototype, just use for demo, it's deprecated from 2019/12/15
 
 ## Build Setup
 
