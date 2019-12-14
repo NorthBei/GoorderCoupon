@@ -2,8 +2,8 @@
 
 > Goorder coupon and loyalty card mobile version prototype
 
-![優惠券](ttps://northbei.github.io/GoorderCoupon/screenshoot/優惠券.png)
-![集點卡](ttps://northbei.github.io/GoorderCoupon/screenshoot/集點卡.png)
+![優惠券](https://northbei.github.io/GoorderCoupon/screenshoot/優惠券.png)
+![集點卡](https://northbei.github.io/GoorderCoupon/screenshoot/集點卡.png)
 
 Here is [demo](https://northbei.github.io/GoorderCoupon/)
 
