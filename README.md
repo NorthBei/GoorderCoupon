@@ -1,11 +1,12 @@
 # Introduction
 
-> Goorder coupon and loyalty card mobile version prototype
+This project is "Goorder coupon and loyalty card mobile version prototype"
 
-![優惠券](https://northbei.github.io/GoorderCoupon/screenshot/優惠券.png)
-![集點卡](https://northbei.github.io/GoorderCoupon/screenshot/集點卡.png)
+![優惠券&集點卡](https://northbei.github.io/GoorderCoupon/screenshot/demo.png)
 
 Here is [demo](https://northbei.github.io/GoorderCoupon/)
+
+> Notice: This project is only a prototype, just use for demo, now is deprecated (start from 2019/12/15)
 
 ## Build Setup
 
