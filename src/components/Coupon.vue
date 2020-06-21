@@ -1,6 +1,6 @@
 <template>
     <el-card :body-style="{ padding: '0px' }" class="coupon-card">
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaVc_51CwSCLrDgfOERVERN5pkbGj7gosh3yzbJQ7WFk23O738vQ" class="image">
+        <img src="../assets/banner.jpg" class="image">
         <div class="coupon-card-info">
         <div>臘腸蕈菇披薩</div>
         <div>Salaim and Mushroom Pizza</div>

@@ -8,6 +8,11 @@ Here is [demo](https://northbei.github.io/GoorderCoupon/)
 
 > Notice: This project is only a prototype, just use for demo, it's deprecated from 2019/12/15
 
+## Dev Environment
+
+Node Version：v8.9.4
+NPM Version：v6.13.4
+
 ## Build Setup
 
 ``` bash
